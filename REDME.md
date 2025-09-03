@@ -4,3 +4,4 @@ ola bem vindo
 
 - receitas
 - git add
+- Primeiro repositório  
